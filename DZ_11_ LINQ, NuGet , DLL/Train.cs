@@ -45,10 +45,7 @@ namespace DZ_11__LINQ__NuGet___DLL
             }
             return "Поезд пришел вовремя";
         }
-
-
         public Train() { }
         public Train(string name) { }
-
     }
 }
